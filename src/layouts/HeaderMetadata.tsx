@@ -4,7 +4,7 @@ import Head from "next/head";
 export default function HeaderMetadata(): React.JSX.Element {
   return (
     <Head>
-      <title>Ahmad Nursidik Dinar&apos;s Portfolio Website</title>
+      <title>Ahmad Nursidik Dinar&apos;s Profile Website</title>
 
       <meta
         name="viewport"

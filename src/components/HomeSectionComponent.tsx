@@ -21,7 +21,7 @@ function HomeSectionComponent(): React.JSX.Element {
       id="home"
       width="100vw"
       height={{ base: "100%", xl: "100vh" }}
-      paddingTop="7.5rem"
+      paddingTop="3rem"
       paddingBottom="1rem"
     >
       {/* Home Section Container */}
