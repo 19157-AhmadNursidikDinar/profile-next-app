@@ -62,7 +62,7 @@ function HomeSectionComponent(): React.JSX.Element {
               color="primary"
               fontWeight="semibold"
               lineHeight="120%"
-              fontSize={{ base: "2.75rem", md: "3rem", lg: "4rem" }}
+              fontSize={{ base: "1.75rem", md: "2.75rem", lg: "4rem" }}
               marginTop="1"
               marginBottom="4"
               maxWidth="85%"

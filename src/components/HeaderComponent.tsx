@@ -66,7 +66,7 @@ export default function HeaderComponent(): React.JSX.Element {
               href="/"
               color="primary"
               fontWeight="semibold"
-              fontSize={{ base: "2.5rem", xl: "1.5rem" }}
+              fontSize={{ base: "1.5rem", xl: "1.75rem" }}
               _hover={{
                 textDecoration: "none",
               }}
